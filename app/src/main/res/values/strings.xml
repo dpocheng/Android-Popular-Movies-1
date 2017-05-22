@@ -1,0 +1,32 @@
+<resources>
+    <string name="credit">Credit by dpocheng</string>
+
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="main_textview">My Nanodegree Apps!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="button_1">POPULAR MOVIES</string>
+    <string name="button_2">STOCK HAWK</string>
+    <string name="button_3">BUILD IT BIGGER</string>
+    <string name="button_4">MAKE YOUR APP MATERIAL</string>
+    <string name="button_5">GO UBIQUITOUS</string>
+    <string name="button_6">CAPSTONE</string>
+
+    <string name="toast_1">This button will launch my popular movies app!</string>
+    <string name="toast_2">This button will launch my stock hawk app!</string>
+    <string name="toast_3">This button will launch my build it bigger app!</string>
+    <string name="toast_4">This button will launch my make your app material app!</string>
+    <string name="toast_5">This button will launch my go ubiquitous app!</string>
+    <string name="toast_6">This button will launch my capstone app!</string>
+
+    <string name="movie_activity_title">Popular Movies</string>
+
+    <string name="movie_sort_order_menu">Sort By</string>
+    <string name="movie_sort_order_most_popular">Most Popular</string>
+    <string name="movie_sort_order_top_rated">Top Rated</string>
+
+    <string name="movie_details_activity_title">Movie Details</string>
+    <string name="movie_rated_base"> / 10</string>
+</resources>
